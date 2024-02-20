@@ -23,27 +23,27 @@ let updateTimer;
 const music_list = [
     {
         img : 'images/stay.png',
-        name : 'Stay',
-        artist : 'The Kid LAROI, Justin Bieber',
-        music : 'music/stay.mp3'
+        name : 'Notion',
+        artist : 'The Rare Occasions',
+        music : 'music/y2mate.bz - notion.mp3'
     },
     {
         img : 'images/fallingdown.jpg',
-        name : 'Falling Down',
-        artist : 'Wid Cards',
-        music : 'music/fallingdown.mp3'
+        name : 'Royalty',
+        artist : 'Egzod ft neoni',
+        music : 'music/y2mate.bz - egzod-maestro-chives-royalty-lyrics-ft.neoni.mp3'
     },
     {
         img : 'images/faded.png',
-        name : 'Faded',
-        artist : 'Alan Walker',
-        music : 'music/Faded.mp3'
+        name : 'The Greatest',
+        artist : 'Sia',
+        music : 'music/y2mate.bz - sia-the-greatest-lyrics.mp3'
     },
     {
         img : 'images/ratherbe.jpg',
-        name : 'Rather Be',
-        artist : 'Clean Bandit',
-        music : 'music/Rather Be.mp3'
+        name : 'Mockingbird [SpeedUp]',
+        artist : 'Eminem',
+        music : 'music/y2mate.bz - fenekot-mockingbird-sped-up.mp3'
     }
 ];
 
